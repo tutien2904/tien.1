@@ -1,0 +1,26 @@
+.row img {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+
+
+.row {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.img {
+    with: 100%;
+}
+
+.absolute {
+
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: normal;
+    left: 50px;
+    top: 200px;
+}
